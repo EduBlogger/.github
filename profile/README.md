@@ -1,6 +1,9 @@
 # 👨‍💻🖋️ Welocme to EduBlogger
 
 <div align="justify">
+<div align="center" >
+    <img src="https://raw.githubusercontent.com/EduBlogger/imgs/main/logo.png?token=GHSAT0AAAAAACG27IAPAGOVVOXZYE6SWS3GZJUZAXQ" width="300">
+</div>
     <p>EduBlogger is a welcoming platform where students can express themselves without judgment, promoting individuality and mental well-being. It offers a safe space for sharing and connecting with peers, fostering a community where self-discovery and mental wellness thrive, promoting personal growth and academic success.</p>
 </div>
 
