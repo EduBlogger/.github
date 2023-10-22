@@ -7,8 +7,11 @@
 ---
 
 <div align="center">
-<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" width="300">
-<img src="https://rossmann.tech/files/__post_square/reactjs.webp" width="200">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png" width="200">
+<img src="https://shethink.in/wp-content/uploads/2021/07/react.js-img.png" width="200">
 <img src="https://aoostudio.com/wp-content/uploads/php-mysqli.jpg" width="200">
     <p align="justify">With Node.js and Express.js for the backend API, React for the dynamic web frontend, and MySQL for the database management system, the Edublogger Web application is based on a solid technical stack. The API is built on a strong and adaptable base provided by Node and Express, which makes data retrieval and processing simple. Popular JavaScript library React creates a compelling web frontend user experience and enables quick and responsive interactions. The application's data is effectively stored and managed via MySQL, a dependable relational database. A contemporary, effective, and user-friendly platform for educational blogging and content management is ensured by this technology combination.</p>
 </div>
+
+
+
