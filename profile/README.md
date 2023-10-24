@@ -1,4 +1,4 @@
-# 👨‍💻🖋️ Welocme to EduBlogger
+# 👨‍💻🖋️ Welcome to EduBlogger
 
 <div align="justify">
 <div align="center" >
